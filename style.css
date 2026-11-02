@@ -1,0 +1,9 @@
+:root { --bg:#f2f2f7; --card:#fff; --text:#1c1c1e; --muted:#6e6e73; --accent:#0a84ff; }
+@media (prefers-color-scheme: dark) { :root { --bg:#000; --card:#1c1c1e; --text:#f2f2f7; --muted:#98989d; --accent:#409cff; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--text); font:17px/1.55 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Tahoma, sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
+h1 { font-size: 32px; margin: 8px 0 4px; } h2 { font-size: 21px; margin-top: 32px; }
+.card { background: var(--card); border-radius: 18px; padding: 20px; margin: 16px 0; }
+.muted { color: var(--muted); } a { color: var(--accent); }
+[dir=rtl] { font-family: -apple-system, "SF Arabic", Tahoma, sans-serif; }

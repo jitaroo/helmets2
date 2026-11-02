@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updated": "2026-11-01",
+  "holidays": [
+    {"kind": "newYear", "days": ["2026-01-01"], "source": "https://arynews.tv/kuwait-new-year-holiday-on-january-1-2026"},
+    {"kind": "israMiraj", "days": ["2026-01-18"], "source": "https://arynews.tv/holiday-announcement-for-isra-wal-miraj-in-kuwait"},
+    {"kind": "nationalDay", "days": ["2026-02-25"], "source": "https://www.arabtimesonline.com/news/official-work-to-resume-in-kuwait-march-1-after-national-day-liberation-day-holidays"},
+    {"kind": "liberationDay", "days": ["2026-02-26"], "source": "https://www.arabtimesonline.com/news/official-work-to-resume-in-kuwait-march-1-after-national-day-liberation-day-holidays"},
+    {"kind": "eidAlFitr", "days": ["2026-03-19", "2026-03-20", "2026-03-21", "2026-03-22", "2026-03-23"], "source": "https://www.arabtimesonline.com/news/civil-service-commission-announces-eid-al-fitr-holidays"},
+    {"kind": "arafatAndEidAlAdha", "days": ["2026-05-26", "2026-05-27", "2026-05-28", "2026-05-29", "2026-05-30", "2026-05-31"], "source": "https://gulfnews.com/world/gulf/kuwait/kuwait-announces-six-day-eid-al-adha-holiday-for-public-sector-1.500546432"},
+    {"kind": "hijriNewYear", "days": ["2026-06-16"], "source": "https://www.cbk.gov.kw/en/cbk-news/announcements-and-press-releases/announcements/2026/06/202606151000-the-central-bank-of-kuwait-will-be-closed-to-the-public-for-new-hijri-year-1448"},
+    {"kind": "prophetsBirthday", "days": ["2026-08-27"], "source": "https://kuwaittimes.com/article/48004/kuwait/kuwait-csc-declares-thursday-aug-27-official-holiday-for-prophets-birthday/"}
+  ]
+}
